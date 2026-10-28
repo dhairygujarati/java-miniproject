@@ -1,0 +1,21 @@
+# Java build output
+out/
+target/
+*.class
+*.jar
+
+# Runtime banking data (do not commit customer information)
+data/
+lab11-data/
+*.dat
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
+sources.txt
